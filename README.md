@@ -96,13 +96,13 @@ REACT_APP_NEWS_API_KEY=your_api_key_here
 ## 📸 Screenshots
 
 ### Main Page
-![Mian Page](./assets/Main.png)
+![Main Page](./assets/Main.jpg)
 
 ### Scroll-down Mode
-![Infinite-Scroll](./assets/down.png)
+![Infinite-Scroll](./assets/down.jpg)
 
 ### Change Dimension
-![Different-Dimension](./assets/Dimension.png)
+![Different-Dimension](./assets/Dimension.jpg)
 
 ---
 
